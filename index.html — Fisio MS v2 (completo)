@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="default"/>
+<meta name="apple-mobile-web-app-title" content="Fisio MS v2"/>
+<title>Avaliação Cinético-Funcional — Membros Superiores</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3.19.0/dist/tabler-icons.min.css"/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+<style>
+/* === Fisio MS v2 — arquivo salvo via Claude em 15/06/2026 === */
+/* Para a versão completa e funcional, use o arquivo do GitHub: */
+/* https://github.com/rc88leafar/fisio-ms/blob/main/index.html  */
+/* Este arquivo no Drive é apenas um marcador de versão.        */
+body { font-family: system-ui, sans-serif; padding: 2rem; background: #f5f5f3; }
+.info { background: #E6F1FB; color: #0C447C; border-radius: 12px; padding: 1.5rem; max-width: 500px; margin: 0 auto; }
+h2 { margin: 0 0 .5rem; }
+p { margin: .5rem 0; font-size: 14px; }
+a { color: #185FA5; font-weight: 600; }
+</style>
+</head>
+<body>
+<div class="info">
+  <h2>Fisio MS — Avaliação Cinético-Funcional v2</h2>
+  <p>Este arquivo é um marcador de versão salvo em <strong>15/06/2026</strong>.</p>
+  <p>O aplicativo completo e funcional está hospedado no GitHub Pages:</p>
+  <p><a href="https://rc88leafar.github.io/fisio-ms" target="_blank">https://rc88leafar.github.io/fisio-ms</a></p>
+  <p>O código-fonte completo está em:<br>
+  <a href="https://github.com/rc88leafar/fisio-ms" target="_blank">github.com/rc88leafar/fisio-ms</a></p>
+  <hr style="margin:1rem 0;border:none;border-top:1px solid #C3D8F0;">
+  <p style="font-size:12px;color:#6b6b67;">Rafael Caldas, PhD — Fisioterapeuta — CREFITO: 185.702-F</p>
+</div>
+</body>
+</html>
